@@ -9,7 +9,7 @@ import cookieParser from "cookie-parser";
 import cors from "cors";
 
 const allowedOrigins = [
- 
+ "https://fullstack-project-deployement-12th-august.onrender.com",
 ];
 const app = express();
 
